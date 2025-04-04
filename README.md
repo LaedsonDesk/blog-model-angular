@@ -2,6 +2,8 @@
 
 Este é um projeto de blog desenvolvido com **Angular** com o intuito de aprender mais sobre esse framework poderoso e suas diversas funcionalidades. O projeto tem como objetivo explorar conceitos como roteamento, gerenciamento de estado, interações dinâmicas e muito mais.
 
+![Image](https://github.com/user-attachments/assets/48d548c3-1ee3-4ed1-841d-3a69e2921109)
+
 ## 🚀 Funcionalidades
 
 - Roteamento dinâmico de páginas.
